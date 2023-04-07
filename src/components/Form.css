@@ -1,0 +1,36 @@
+.form-container {
+	background-color: white;
+	padding: 5%;
+	width: 101%;
+	margin-left: 2%;
+	border-radius: 11px;
+	display: flex;
+	flex-direction: column;
+	row-gap: 1.6rem;
+}
+
+.frm input {
+	width: 100%;
+	border-radius: 5px;
+	/* border-color: rgb(192, 181, 181); */
+	padding: 2%;
+}
+
+.frm button {
+	background-color: hsl(154, 59%, 51%);
+	border-color: hsl(154, 59%, 51%);
+	border-radius: 6px;
+	color: #fff;
+	width: 100%;
+	padding: 2%;
+	font-size: 13px;
+}
+.bottom-part {
+	font-size: 9px;
+	color: rgb(192, 181, 181);
+	padding-left: 8%;
+}
+.form__confirmsubmit {
+	color: black;
+	text-align: center;
+}

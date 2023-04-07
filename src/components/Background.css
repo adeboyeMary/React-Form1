@@ -1,0 +1,9 @@
+.container1 {
+	background-image: url(http://localhost:3000/static/media/bg-intro-desktop.059183eea52640c5068d.png);
+	background-color: hsl(0, 100%, 74%);
+	color: white;
+	font-family: 'poppins';
+	width: 100%;
+	/* margin: 11% 0% 0% 8%; */
+	height: 100vh;
+}
